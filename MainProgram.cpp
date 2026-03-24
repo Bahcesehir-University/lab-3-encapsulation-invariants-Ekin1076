@@ -43,7 +43,7 @@ public:
     // Getter: return the temperature in Celsius
     double getCelsius() const {
         // TODO: Implement
-        return celsius_;
+        return -celsius_;
     }
 
     // Getter: return the temperature converted to Fahrenheit
